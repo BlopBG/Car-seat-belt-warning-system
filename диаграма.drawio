@@ -1,0 +1,311 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Страница-1" id="Lo0Y9EfYsdB8P3VsCAGS">
+    <mxGraphModel dx="1592" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-105" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-2" value="Отваряш вратата&amp;nbsp;&lt;div&gt;на колата&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-6" target="NH9g11rZEGM5hvD3VpeR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-12" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-9">
+          <mxGeometry x="-0.1692" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-6" target="NH9g11rZEGM5hvD3VpeR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-11" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-10">
+          <mxGeometry x="-0.1385" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-6" value="седнал ли си на седалката?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-8" target="NH9g11rZEGM5hvD3VpeR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-232.5" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-8" value="взима данни от сензора за тежест" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="130" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-15" target="NH9g11rZEGM5hvD3VpeR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-28" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-27">
+          <mxGeometry x="-0.3072" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-15" target="NH9g11rZEGM5hvD3VpeR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-36" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-35">
+          <mxGeometry x="0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-15" value="включва ли колата?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-16" target="NH9g11rZEGM5hvD3VpeR-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-101.86999999999989" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-21" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-18">
+          <mxGeometry x="-0.1296" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-16" target="NH9g11rZEGM5hvD3VpeR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-22" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-20">
+          <mxGeometry x="-0.0786" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-16" value="включва ли колата?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-303.12" y="240" width="141.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-19" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-23" target="NH9g11rZEGM5hvD3VpeR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-23" value="взима данни че&lt;div&gt;колата е вклучена&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-178.44" y="340" width="146.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-24" target="NH9g11rZEGM5hvD3VpeR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-24" value="изписва на монитора&lt;div&gt;че колата е стартирана&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-322.85" y="430" width="133.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-26" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-151.57" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-29" target="NH9g11rZEGM5hvD3VpeR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-29" value="взима данни че&lt;div&gt;колата е вклучена&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="146.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-30" value="изписва на монитора&lt;div&gt;че колата е стартирана&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136.72000000000003" y="270" width="133.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-38" target="NH9g11rZEGM5hvD3VpeR-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-603" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-44" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-42">
+          <mxGeometry x="-0.5385" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-38" target="NH9g11rZEGM5hvD3VpeR-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-56" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-49">
+          <mxGeometry x="-0.0893" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-38" value="сложил ли си колана?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="520" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-43" target="NH9g11rZEGM5hvD3VpeR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-43" value="взима данни че&lt;div&gt;колана е сложен&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-673" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-46" target="NH9g11rZEGM5hvD3VpeR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-64" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-60">
+          <mxGeometry x="0.0589" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-46" target="NH9g11rZEGM5hvD3VpeR-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-63" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-62">
+          <mxGeometry x="-0.009" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-46" value="даваш ли газ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-663" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-48" target="NH9g11rZEGM5hvD3VpeR-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-54" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-53">
+          <mxGeometry x="-0.3651" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-48" target="NH9g11rZEGM5hvD3VpeR-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-57" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-55">
+          <mxGeometry x="-0.6213" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-48" value="даваш ли газ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316.13" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-51" target="NH9g11rZEGM5hvD3VpeR-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-93" y="890" />
+              <mxPoint x="-343" y="890" />
+              <mxPoint x="-343" y="940" />
+              <mxPoint x="-396" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-51" value="започва да пищи и изписва съобщение да си сложите колана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-52" target="NH9g11rZEGM5hvD3VpeR-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-383" y="770" />
+              <mxPoint x="-353" y="770" />
+              <mxPoint x="-353" y="900" />
+              <mxPoint x="-396" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-52" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-442.85" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-59" target="NH9g11rZEGM5hvD3VpeR-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-59" value="започваш да караш&lt;div&gt;и на монитора че караш&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="830" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-61" target="NH9g11rZEGM5hvD3VpeR-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-743" y="940" />
+              <mxPoint x="-396" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-61" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-803" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-66" target="NH9g11rZEGM5hvD3VpeR-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-77" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-74">
+          <mxGeometry x="-0.4799" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-66" target="NH9g11rZEGM5hvD3VpeR-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-76" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-75">
+          <mxGeometry x="-0.0913" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-66" value="изключваш ли колата?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-475.98" y="960" width="159.85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-72" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-299" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-73" value="показва съобщение че колата се изключва" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-598" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-82" target="NH9g11rZEGM5hvD3VpeR-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-79" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-78">
+          <mxGeometry x="-0.3651" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-82" target="NH9g11rZEGM5hvD3VpeR-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-81" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-80">
+          <mxGeometry x="-0.6213" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-82" target="NH9g11rZEGM5hvD3VpeR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-82" value="даваш ли газ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143.43000000000004" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-83" target="NH9g11rZEGM5hvD3VpeR-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-83" value="започва да изписва съобщение че не можете да карате колата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289.85" y="500" width="150.15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-84" target="NH9g11rZEGM5hvD3VpeR-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="630" />
+              <mxPoint x="242" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-84" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-96" target="NH9g11rZEGM5hvD3VpeR-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-93" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-92">
+          <mxGeometry x="-0.4799" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH9g11rZEGM5hvD3VpeR-96" target="NH9g11rZEGM5hvD3VpeR-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-95" value="НЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NH9g11rZEGM5hvD3VpeR-94">
+          <mxGeometry x="-0.0913" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-96" value="изключваш ли колата?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.01999999999998" y="710" width="159.85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-97" value="нищо не става" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9g11rZEGM5hvD3VpeR-98" value="показва съобщение че колата се изключва" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
